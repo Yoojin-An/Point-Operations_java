@@ -1,0 +1,9 @@
+spring:
+  application.name: hhplus-tdd
+
+logging:
+  level:
+    org.springframework.web: DEBUG
+
+lock:
+  timeout: 3
